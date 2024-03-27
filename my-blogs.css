@@ -1,0 +1,17 @@
+#kolkata{
+    color: rgb(107, 72, 5);
+   }
+   #delhi{
+    color: rgb(33, 212, 108);
+   }
+    .history{
+        color: rgb(51, 82, 97);
+        background-color: rgb(222, 211, 211);
+    }
+    .early{
+        color: rgb(0, 0, 0);
+    
+    }
+    .today{
+        color: rgb(80, 38, 38);
+    }
